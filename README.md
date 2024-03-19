@@ -18,7 +18,7 @@ Zeus.ResourceManager is a project designed to streamline resource provisioning o
 
 To begin using Zeus.ResourceManager, follow these steps:
 
-1. **Installation:** Clone the repository from [GitHub](https://github.com/your-username/Zeus.ResourceManager) and install the necessary dependencies.
+1. **Installation:** Clone the repository from [GitHub](https://github.com/tanmaysheoran/Zeus.ResourceManager) and install the necessary dependencies.
 
 2. **Configuration:** Configure Azure credentials and tenant-specific settings.
 
@@ -34,4 +34,4 @@ Zeus.ResourceManager is licensed under the [MIT License](LICENSE), allowing for 
 
 **Support:**
 
-For support or inquiries, please contact [your-email@example.com](mailto:sheoran.tanmay.social@gmail.com).
+For support or inquiries, please contact [sheoran.tanmay.social@gmail.com](mailto:sheoran.tanmay.social@gmail.com).
